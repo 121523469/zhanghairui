@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userOverrides>
+    <override>
+        <path>E:\CS-iTDTU-01\CS-iTDTU-01\Drivers\DUART\duart.h</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>E:\CS-iTDTU-01\CS-iTDTU-01\Drivers\LoraWan\lorawan.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>E:\CS-iTDTU-01\CS-iTDTU-01\Drivers\musart\musart.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>E:\CS-iTDTU-01-1\CS-iTDTU-01\Drivers\Key\Key.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>E:\CS-iTDTU-01-1\CS-iTDTU-01\Drivers\NBIOT\NBIOT.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>E:\CS-iTDTU-01-1\CS-iTDTU-01\Drivers\STM32L0xx_HAL_Driver\Src\stm32l0xx_hal.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>E:\CS-iTDTU-01-1\CS-iTDTU-01\Inc\product_config.h</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>E:\CS-iTDTU-01-1\CS-iTDTU-01\Src\main.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>E:\CS-iTDTU-01-1\CS-iTDTU-01\app\IOChannelManage\IOChannelManage.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>E:\CS-iTDTU-01-1\CS-iTDTU-01\app\low_power_ctl\low_power_ctl.c</path>
+        <encoding>System</encoding>
+    </override>
+</userOverrides>
